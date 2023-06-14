@@ -2,6 +2,8 @@ package gr.aueb.cf.ch1;
 
 
 import gr.aueb.cf.ch1.model.Point;
+import gr.aueb.cf.ch11.HelloUtil;
+
 import static java.lang.Math.abs;
 import java.util.Scanner;
 
@@ -22,7 +24,8 @@ public class HelloWorld {
 
     public static void main(String[] args) {
 
-        int abs = abs(-3);
+//        int abs = abs(-3);
+        HelloUtil.sayHello();
         System.out.println("Hello World!");
     }
 }
