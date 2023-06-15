@@ -22,7 +22,7 @@ public class CitiesIOApp {
 
         if (!dir.exists()) {
             if (!dir.mkdir()) {
-                System.err.println("Error in make dir");
+                System.err.println("Error in making dir");
                 System.exit(1);
             }
         }
