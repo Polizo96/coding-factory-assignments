@@ -1,7 +1,5 @@
 package gr.aueb.cf.testbed.ch11;
 
-import gr.aueb.cf.ch11.Point;
-
 /**
  * A simple {@link User} Java Bean.
  *
@@ -37,5 +35,23 @@ public class User {
     }
     public void setLastname(String lastname) {
         this.lastname = lastname;
+    }
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "id=" + id +
+                ", firstname='" + firstname + '\'' +
+                ", lastname='" + lastname + '\'' +
+                '}';
+    }
+
+    /**
+     * Prints a message that inserted user registered successfully.
+     * @param user
+     *              the inserted user.
+     */
+    public void registerUser(User user) {
+        System.out.println(user + "user is registered successfully");
     }
 }
