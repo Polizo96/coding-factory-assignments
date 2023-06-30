@@ -1,8 +1,0 @@
-Μαΐ 15, 2023 6:56:33 Μ.Μ. gr.aueb.cf.ch8.JULApp getFileDescriptor
-SEVERE: File not found/Users/nikospolizopoulos/Desktop/Coding Factory/Java/test-15.txt (No such file or directory)
-Μαΐ 15, 2023 6:56:49 Μ.Μ. gr.aueb.cf.ch8.JULApp getFileDescriptor
-SEVERE: File not found/Users/nikospolizopoulos/Desktop/Coding Factory/Java/test-15.txt (No such file or directory)
-Μαΐ 19, 2023 5:42:06 Μ.Μ. gr.aueb.cf.testbed.ch9.StudentsGradesApp isGradeValid
-SEVERE: Invalid Gradenull
-Μαΐ 19, 2023 5:44:49 Μ.Μ. gr.aueb.cf.ch8.JULApp getFileDescriptor
-SEVERE: File not found/Users/nikospolizopoulos/Desktop/Coding Factory/Java/test-15.txt (No such file or directory)

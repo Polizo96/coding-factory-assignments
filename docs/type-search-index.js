@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"gr.aueb.cf.ch1","l":"AddApp"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"gr.aueb.cf.ch1","l":"HelloWorld"},{"p":"gr.aueb.cf.ch1.model","l":"Point"}]

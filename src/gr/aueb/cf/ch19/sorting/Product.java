@@ -1,7 +1,5 @@
 package gr.aueb.cf.ch19.sorting;
 
-import gr.aueb.cf.ch19.DoublyLinkedList;
-
 public class Product implements Comparable<Product> {
     private String description;
     private double price;
